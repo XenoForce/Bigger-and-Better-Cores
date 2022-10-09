@@ -1,2 +1,2 @@
-# Bigger-and-Better-Cores
+# Bigger and Better Cores
 Gives you Bigger and Better Cores.
