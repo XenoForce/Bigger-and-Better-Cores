@@ -1,0 +1,20 @@
+
+type: CoreBlock
+name: Red Core 8
+description: 
+
+
+health: 16000
+itemCapacity: 123000
+unitCapModifier: 45
+unitType: gamma
+size: 8
+
+
+requirements: [ copper/1 ]
+buildCostMultiplier: 0.1
+
+category: effect
+research: core-shard
+
+alwaysUnlocked: true
